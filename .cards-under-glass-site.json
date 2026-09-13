@@ -1,0 +1,15 @@
+{
+  "generator": "Cards Under Glass",
+  "formatVersion": 2,
+  "applicationVersion": "0.1.0",
+  "ownedFiles": [
+    ".nojekyll",
+    "assets/site.css",
+    "assets/site.js",
+    "data/reports.json",
+    "index.html"
+  ],
+  "generationStateVersion": 2,
+  "reportFormatVersion": 2,
+  "imagePipelineVersion": 1
+}

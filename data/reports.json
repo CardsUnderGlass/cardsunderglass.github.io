@@ -1,5 +1,16 @@
 [
   {
+    "serial": "0000000018",
+    "cardName": "Hassan testkort",
+    "cardNumber": "666",
+    "game": "Pokemon",
+    "set": "Hassans set",
+    "variant": null,
+    "estimatedGrade": "10.0",
+    "url": "cards/0000000018/",
+    "frontThumbnail": "media/0000000018/full-front-catalogue.webp"
+  },
+  {
     "serial": "0000000017",
     "cardName": "Sliver Queen",
     "cardNumber": null,

@@ -1,0 +1,113 @@
+{
+  "generator": "Cards Under Glass",
+  "snapshotFormatVersion": 2,
+  "publicSchemaVersion": 2,
+  "ownerKey": "28f8af707b195fb253be9309b00bec70077b2509e8427878ab15887358469caa",
+  "serial": "0000000018",
+  "publicFingerprint": "9bf3885165035b8671185209491c6a279172134b35a2401842086f6378fa8925",
+  "reportFormatVersion": 4,
+  "imagePipelineVersion": 1,
+  "card": {
+    "game": "Pokemon",
+    "setName": "Hassans set",
+    "cardName": "Hassan testkort",
+    "cardNumber": "666",
+    "year": "2026",
+    "language": "English",
+    "variant": null,
+    "rarity": "C",
+    "manufacturer": "Bandai",
+    "inspection": {
+      "centeringGrade": 100,
+      "cornersGrade": 100,
+      "edgesGrade": 100,
+      "surfaceGrade": 100,
+      "estimatedGrade": 100,
+      "frontVerticalLeftTop": 300,
+      "frontVerticalLeftBottom": 300,
+      "frontVerticalRightTop": 300,
+      "frontVerticalRightBottom": 300,
+      "frontHorizontalUpperLeft": 300,
+      "frontHorizontalUpperRight": 300,
+      "frontHorizontalLowerLeft": 300,
+      "frontHorizontalLowerRight": 300,
+      "backVerticalLeftTop": 300,
+      "backVerticalLeftBottom": 300,
+      "backVerticalRightTop": 300,
+      "backVerticalRightBottom": 300,
+      "backHorizontalUpperLeft": 300,
+      "backHorizontalUpperRight": 300,
+      "backHorizontalLowerLeft": 300,
+      "backHorizontalLowerRight": 300,
+      "centeringNote": null,
+      "cornersNote": null,
+      "edgesNote": null,
+      "surfaceNote": null
+    },
+    "markers": [
+      {
+        "number": 1,
+        "side": "front",
+        "x": 0.42609375,
+        "y": 0.6100074404761905,
+        "note": "Ding på trycket"
+      }
+    ],
+    "photos": [
+      {
+        "assetKey": "full-back",
+        "slot": "full_back",
+        "title": null,
+        "originalFilename": null,
+        "catalogue": null,
+        "preview": "media/0000000018/full-back-preview.webp",
+        "large": "media/0000000018/full-back-large.webp",
+        "label": "Back",
+        "contentFingerprint": "011ab11d387bd1e26fcbbbfc211e110f40aa2973ac3bb64596405a573a44b2a1",
+        "markerNumbers": [],
+        "imagePipelineVersion": 1
+      },
+      {
+        "assetKey": "full-front",
+        "slot": "full_front",
+        "title": null,
+        "originalFilename": null,
+        "catalogue": "media/0000000018/full-front-catalogue.webp",
+        "preview": "media/0000000018/full-front-preview.webp",
+        "large": "media/0000000018/full-front-large.webp",
+        "label": "Front",
+        "contentFingerprint": "455f8515bc0e5429570a0b6d85c338e329cbb0465e97b18c8d8c5db2be1959c2",
+        "markerNumbers": [],
+        "imagePipelineVersion": 1
+      },
+      {
+        "assetKey": "corner-top-left",
+        "slot": "corner_top_left",
+        "title": null,
+        "originalFilename": null,
+        "catalogue": null,
+        "preview": "media/0000000018/corner-top-left-preview.webp",
+        "large": "media/0000000018/corner-top-left-large.webp",
+        "label": "Top Left",
+        "contentFingerprint": "2453d0c409e3e9def1a474f4e78442fc824fcf647730e41e165aa55917876476",
+        "markerNumbers": [
+          1
+        ],
+        "imagePipelineVersion": 1
+      },
+      {
+        "assetKey": "corner-top-right",
+        "slot": "corner_top_right",
+        "title": null,
+        "originalFilename": null,
+        "catalogue": null,
+        "preview": "media/0000000018/corner-top-right-preview.webp",
+        "large": "media/0000000018/corner-top-right-large.webp",
+        "label": "Top Right",
+        "contentFingerprint": "3af18a500d9548ea647d14edc680370842ecab58401657c447457277d621718d",
+        "markerNumbers": [],
+        "imagePipelineVersion": 1
+      }
+    ]
+  }
+}

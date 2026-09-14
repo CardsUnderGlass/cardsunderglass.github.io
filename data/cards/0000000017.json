@@ -5,7 +5,7 @@
   "ownerKey": "28f8af707b195fb253be9309b00bec70077b2509e8427878ab15887358469caa",
   "serial": "0000000017",
   "publicFingerprint": "1df4056004131eb74597e4b22b1b4304313b6633fc90f4598efd2f7ec3fb84bc",
-  "reportFormatVersion": 3,
+  "reportFormatVersion": 4,
   "imagePipelineVersion": 1,
   "card": {
     "game": "Magic The Gathering",
